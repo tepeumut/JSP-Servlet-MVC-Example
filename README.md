@@ -1,4 +1,4 @@
-# JSP Servlet MCV Example
+# JSP Servlet MVC Example
 JSP and Servlets with JDBC API to connect to a MySQL database and basic session
 ## Install
 1. Clone or download project and open project into NetBeans
