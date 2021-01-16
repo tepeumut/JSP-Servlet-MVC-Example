@@ -5,3 +5,5 @@ JSP and Servlets with JDBC API to connect to a MySQL database and basic session
 2. Create a database and import `servlet.sql` file
 3. Update database config from `/src/java/db/Database.java` (dbName, dbUsername, dbPassword)
 4. Run project and open `http://localhost:8080/JSP_Servlet` in browser. (Use your Tomcat server port. Tomcat default port is 8080)
+Username: user
+Password: 12345
